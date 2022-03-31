@@ -1,7 +1,5 @@
-#include <iostream>
-#define ll long long int
-int main()
-{
-    ll t;
-    std::cin >> t;
-    ll cost[t];
+// if ((str[1] == chr) || (str[str.size() - 2] == chr))
+    //     //     std::cout << "No";
+    //     // else
+    //     //     std::cout << "Yes";
+    // }
