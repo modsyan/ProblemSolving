@@ -1,4 +1,6 @@
 #include <iostream>
+#include <algorithm>
+#include <string>
 
 int main()
 {
@@ -15,8 +17,11 @@ int main()
     {
         std::cin >> str >> chr;
         int fnd = str.find(chr);
+        std::string copy(str);
+        std::reverse(copy.begin(), copy.end());
+        int rFnd = copy.find(chr);
 
-        if (fnd % 2 == 0)
+        if ((fnd % 2 == 0) || (rFnd % 2 ==0))
             std::cout << "Yes\n";
         else
             std::cout << "No\n";
