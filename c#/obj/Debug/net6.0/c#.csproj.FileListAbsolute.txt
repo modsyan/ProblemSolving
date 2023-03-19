@@ -1,0 +1,15 @@
+/home/modsyan/ProblemSolving/c#/bin/Debug/net6.0/c#
+/home/modsyan/ProblemSolving/c#/bin/Debug/net6.0/c#.deps.json
+/home/modsyan/ProblemSolving/c#/bin/Debug/net6.0/c#.runtimeconfig.json
+/home/modsyan/ProblemSolving/c#/bin/Debug/net6.0/c#.dll
+/home/modsyan/ProblemSolving/c#/bin/Debug/net6.0/ref/c#.dll
+/home/modsyan/ProblemSolving/c#/bin/Debug/net6.0/c#.pdb
+/home/modsyan/ProblemSolving/c#/obj/Debug/net6.0/c#.csproj.AssemblyReference.cache
+/home/modsyan/ProblemSolving/c#/obj/Debug/net6.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/modsyan/ProblemSolving/c#/obj/Debug/net6.0/c#.AssemblyInfoInputs.cache
+/home/modsyan/ProblemSolving/c#/obj/Debug/net6.0/c#.AssemblyInfo.cs
+/home/modsyan/ProblemSolving/c#/obj/Debug/net6.0/c#.csproj.CoreCompileInputs.cache
+/home/modsyan/ProblemSolving/c#/obj/Debug/net6.0/c#.dll
+/home/modsyan/ProblemSolving/c#/obj/Debug/net6.0/ref/c#.dll
+/home/modsyan/ProblemSolving/c#/obj/Debug/net6.0/c#.pdb
+/home/modsyan/ProblemSolving/c#/obj/Debug/net6.0/c#.genruntimeconfig.cache

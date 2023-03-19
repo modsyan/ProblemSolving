@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BadR7Ru3txx9nRoy39cxMnyf6FUH61cZtr3Fw7jr4YG3czhiNugAgxC3HXS1HwKOiMu/r25O563ujx4N+HBdLw==",
+  "success": true,
+  "projectFilePath": "/home/modsyan/ProblemSolving/c#/c#.csproj",
+  "expectedPackageFiles": [
+    "/home/modsyan/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

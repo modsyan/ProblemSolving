@@ -1,0 +1,49 @@
+#include <bits/stdc++.h>
+using namespace std;
+typedef long long ll;
+#define FASTIO                         \
+	ios_base::sync_with_stdio(false);  \
+	cin.tie(nullptr);                  \
+	cout.tie(nullptr); 
+#define For(start, end) for(int i = start; i < end; i++)
+#define testloop int t;cin >> t;while (t--)
+//// --> ... ALIASES ... -->
+#define el '\n'
+#define vi vector<int>
+#define vc vector<char>
+#define vs vector<string>
+#define vd vector<double>
+#define vii vector<pair<int, int>>
+#define vsi vector<pair<stirng, int>>
+ 
+void solve()
+{
+    int n; cin >> n;
+    vi arr(n);
+    For(0, n) cin >> arr[i];
+    for(int i = 0; i < n; i++) 
+    {
+        for (int j = 0; j < n; j++)
+        {
+            if (j==i) continue;
+            for(int k = 0; k < n; k++) 
+            {
+                if (k == i || k == j) continue;
+                if (arr[i]== arr[j]+arr[k])
+                {
+                    cout << i+1 << " " << max(j,k)+1 << " " << min(j, k)+1 << el;
+                    return;
+                }
+            }
+        }
+    }     
+    cout << -1 << el;
+}
+ 
+//---> Main <---//
+int main()
+{
+    FASTIO
+    solve();
+    return 0;
+}
